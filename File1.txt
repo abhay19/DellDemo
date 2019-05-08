@@ -3,5 +3,13 @@ class Myclass {
 
 main() {
 System.out.println("Hey Abhay");
+System.out.println("Hey Amar");
 }
+
+myMethod() {
+System.out.println("Hey Abhay wellcome to myMethod");
+System.out.println("Hey Amar wellcome to myMethod");
+}
+
+
 }
