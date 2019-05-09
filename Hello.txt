@@ -1,7 +1,7 @@
 public class MyClass {
 
 main(String []args) {
-
+System.out.println("Hello Abhay");
 System.out.println("Hello Abhay");
 }
 
