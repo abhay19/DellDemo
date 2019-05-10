@@ -21,8 +21,11 @@ System.out.println("Hey Shraddha wellcome to myStaticMethod");
 void myMethod() {
 System.out.println("Hey Abhay wellcome to myStaticMethod");
 System.out.println("Hey Amar wellcome to myStaticMethod");
-
 System.out.println("Hey Shraddha wellcome to myStaticMethod");
+}
+
+void myVoidMethod() {
+System.out.println("Wellcome to myVoid method");
 }
 
 }
