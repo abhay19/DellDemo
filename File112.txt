@@ -15,7 +15,6 @@ System.out.println("Hey Amar wellcome to myMethod");
 static myStaticMethod() {
 System.out.println("Hey Abhay wellcome to myStaticMethod");
 System.out.println("Hey Amar wellcome to myStaticMethod");
-
 System.out.println("Hey Shraddha wellcome to myStaticMethod");
 }
 
