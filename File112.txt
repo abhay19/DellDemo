@@ -1,7 +1,7 @@
 class Myclass {
 
 
-main() {
+static void main() {
 System.out.println("Hey Abhay");
 System.out.println("Hey Amar");
 }
